@@ -3,7 +3,7 @@
 <h3 align="center"> A Cyber Security Enthusiastic </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on - CTFs<br>🌱 I’m currently learning - Linux Development<br>💬 Ask me about - CTFs
+🔭 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development<br>💬 Ask me about - CTFs
 
 
 ## 🌐 Socials:
