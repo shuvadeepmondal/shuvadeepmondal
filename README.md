@@ -3,11 +3,11 @@
 <h3 align="center"> A Cyber Security Enthusiastic👨‍🎓 & passionate CTF🚩 player from India </h3>
 
 # 💫 About Me:
-🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development & Penetration Testing <br>💬 Ask me about - CTFs
+🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development & Penetration Testing<br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs 
 
 
 ## 🌐 Socials:
-<p align="left">
+<p align="center">
 <!-- <a href="https://twitter.com/ShuvadeepM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvadeepm" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/shuvadeep-mondal-b6212b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvadeep-mondal" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/shuvadeep.mondal.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvadeepmondal.39" height="30" width="40" /></a> -->
