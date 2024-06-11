@@ -1,9 +1,9 @@
 <img src = "hacker.gif" height ="300"  width ="1000">
 <h1 align="center"> Hello✋,I'm Shuvadeep Mondal</h1>
-<h3 align="center"> A Cyber Security Enthusiastic 👨‍🎓, CTF Player 🚩 & Passionate Frontend Web Developer 👨‍💻 </h3>
+<h3 align="center"> A Passionate Frontend Web Developer 👨‍💻 & Cyber Security Enthusiastic 👨‍🎓, CTF Player 🚩   </h3>
 
 # 💫 About Me:
-🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development & Penetration Testing<br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs 
+🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - ReactJs , Tailwind CSS <br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs, Web Frontend 
 
 
 ## 🌐 Socials:
