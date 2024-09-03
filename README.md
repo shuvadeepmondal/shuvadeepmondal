@@ -3,7 +3,7 @@
 <h3 align="center"> A Passionate Frontend Web Developer 👨‍💻 & Cyber Security Enthusiastic 👨‍🎓, CTF Player 🚩   </h3>
 
 # 💫 About Me:
-🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - ReactJs , Tailwind CSS <br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs, Web Frontend 
+🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - ReactJs , Tailwind CSS, Rust <br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs, Web Frontend 
 
 
 ## 🌐 Socials:
