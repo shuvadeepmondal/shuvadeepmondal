@@ -3,7 +3,7 @@
 <h3 align="center"> A Passionate Frontend Web Developer 👨‍💻 & Cyber Security Enthusiastic 👨‍🎓, CTF Player 🚩   </h3>
 
 # 💫 About Me:
-🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - ReactJs , Tailwind CSS, Rust <br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs, Web Frontend 
+🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - React Native, Nodejs <br>🧑‍💻I'm Creating - Frontend Webpages <br>💬 Ask me about - CTFs, Web Frontend 
 
 
 ## 🌐 Socials:
@@ -20,16 +20,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
 
 
 ## 📊 GitHub Stats:
